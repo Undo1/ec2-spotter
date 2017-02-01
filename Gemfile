@@ -6,6 +6,7 @@ git_source(:github) do |repo_name|
 end
 
 gem 'aws-sdk'
+gem 'awesome_print'
 
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'

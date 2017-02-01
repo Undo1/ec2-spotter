@@ -1,0 +1,14 @@
+common: &common
+  aws_credentials:
+    access_token: 'AxxxA'
+    secret_token: 'Oxxxy'
+
+development:
+  <<: *common
+
+test:
+  <<: *common
+
+production:
+  <<: *common
+
