@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  price: 9.99
+  availability_zone_id: 1
+  instance_type_id: 1
+
+two:
+  price: 9.99
+  availability_zone_id: 1
+  instance_type_id: 1
